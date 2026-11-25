@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Data / Cache (keep processed snapshots if desired, ignore raw temp)
+data/raw/
+*.tmp
+
+# OS / IDE / Local Agent Tooling
+.DS_Store
+.vscode/
+.idea/
+.agents/
+
+# Secrets & Environment
+.env
+.env.*
+*.pem
+*.key
+*.secret

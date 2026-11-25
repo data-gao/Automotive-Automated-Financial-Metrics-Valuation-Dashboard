@@ -1,0 +1,157 @@
+{
+  "target_currency": "EUR",
+  "categories": {
+    "OEM": {
+      "description": "Sino-European Automotive OEMs & Global EV Benchmark",
+      "enabled": true,
+      "peers": [
+        {
+          "ticker": "VOW3.DE",
+          "name": "Volkswagen AG",
+          "region": "Europe",
+          "country": "Germany",
+          "trading_currency": "EUR",
+          "reporting_currency": "EUR",
+          "segment": "Mass & Premium Conglomerate",
+          "investment_angle": "EV transition, software restructuring, deep value multiple"
+        },
+        {
+          "ticker": "BMW.DE",
+          "name": "BMW Group",
+          "region": "Europe",
+          "country": "Germany",
+          "trading_currency": "EUR",
+          "reporting_currency": "EUR",
+          "segment": "Premium OEM",
+          "investment_angle": "High capital efficiency & disciplined Neue Klasse BEV ramp"
+        },
+        {
+          "ticker": "MBG.DE",
+          "name": "Mercedes-Benz Group",
+          "region": "Europe",
+          "country": "Germany",
+          "trading_currency": "EUR",
+          "reporting_currency": "EUR",
+          "segment": "Top-End Luxury",
+          "investment_angle": "Luxury pricing resilience & FCF conversion"
+        },
+        {
+          "ticker": "STLAM.MI",
+          "name": "Stellantis N.V.",
+          "region": "Europe",
+          "country": "Netherlands/Italy",
+          "trading_currency": "EUR",
+          "reporting_currency": "EUR",
+          "segment": "Mass & Multi-Brand",
+          "investment_angle": "Multi-brand platform synergies & shareholder yield"
+        },
+        {
+          "ticker": "1211.HK",
+          "name": "BYD Company Ltd.",
+          "region": "China",
+          "country": "China",
+          "trading_currency": "HKD",
+          "reporting_currency": "CNY",
+          "segment": "Vertical NEV Leader",
+          "investment_angle": "Full-stack battery & power electronics cost leadership"
+        },
+        {
+          "ticker": "0175.HK",
+          "name": "Geely Automobile",
+          "region": "China",
+          "country": "China",
+          "trading_currency": "HKD",
+          "reporting_currency": "CNY",
+          "segment": "Multi-Brand NEV/ICE",
+          "investment_angle": "SEA modular architecture & global brand portfolio"
+        },
+        {
+          "ticker": "LI",
+          "name": "Li Auto Inc.",
+          "region": "China",
+          "country": "China",
+          "trading_currency": "USD",
+          "reporting_currency": "CNY",
+          "segment": "Premium EREV/BEV",
+          "investment_angle": "EREV profitability pioneer in premium family SUVs"
+        },
+        {
+          "ticker": "NIO",
+          "name": "NIO Inc.",
+          "region": "China",
+          "country": "China",
+          "trading_currency": "USD",
+          "reporting_currency": "CNY",
+          "segment": "Premium Smart BEV",
+          "investment_angle": "Premium BEV & Battery-as-a-Service (BaaS) ecosystem"
+        },
+        {
+          "ticker": "TSLA",
+          "name": "Tesla, Inc.",
+          "region": "Global Benchmark",
+          "country": "USA",
+          "trading_currency": "USD",
+          "reporting_currency": "USD",
+          "segment": "Pure-Play EV & AI",
+          "investment_angle": "Global valuation benchmark for autonomy & energy"
+        }
+      ]
+    },
+    "Tier-1": {
+      "description": "Automotive Tier-1 Suppliers",
+      "enabled": true,
+      "peers": [
+        {
+          "ticker": "CON.DE",
+          "name": "Continental AG",
+          "region": "Europe",
+          "country": "Germany",
+          "trading_currency": "EUR",
+          "reporting_currency": "EUR",
+          "segment": "Tires, Automotive & ContiTech",
+          "investment_angle": "Automotive spin-off catalyst & margin recovery"
+        },
+        {
+          "ticker": "SHA0.DE",
+          "name": "Schaeffler AG",
+          "region": "Europe",
+          "country": "Germany",
+          "trading_currency": "EUR",
+          "reporting_currency": "EUR",
+          "segment": "Powertrain & E-Mobility",
+          "investment_angle": "Vitesco merger synergies & bearings cash cow"
+        },
+        {
+          "ticker": "FR.PA",
+          "name": "Valeo SE",
+          "region": "Europe",
+          "country": "France",
+          "trading_currency": "EUR",
+          "reporting_currency": "EUR",
+          "segment": "ADAS & Thermal Systems",
+          "investment_angle": "High-voltage electrification & ADAS sensor scale"
+        },
+        {
+          "ticker": "600699.SS",
+          "name": "Joyson Electronics",
+          "region": "China",
+          "country": "China",
+          "trading_currency": "CNY",
+          "reporting_currency": "CNY",
+          "segment": "Safety & Smart Cockpit",
+          "investment_angle": "Global automotive safety market share & Chinese OEM growth"
+        },
+        {
+          "ticker": "601689.SS",
+          "name": "Tuopu Group",
+          "region": "China",
+          "country": "China",
+          "trading_currency": "CNY",
+          "reporting_currency": "CNY",
+          "segment": "Chassis & Thermal",
+          "investment_angle": "Tier-0.5 modular supply to Tesla & domestic NEV leaders"
+        }
+      ]
+    }
+  }
+}

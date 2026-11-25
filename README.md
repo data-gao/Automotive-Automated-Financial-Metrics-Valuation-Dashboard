@@ -70,11 +70,11 @@ flowchart TD
 ## 4. Valuation & Financial Methodology
 
 - **Enterprise Value (EV)**:
-  $$\text{EV} = \text{Market Cap} + \text{Total Debt} + \text{Minority Interest} - \text{Cash \& Short-Term Investments}$$
+  $$\text{EV} = \text{Market Cap} + \text{Total Debt} + \text{Minority Interest} - \text{Cash and Short-Term Investments}$$
 - **Return on Invested Capital (ROIC)**:
   $$\text{ROIC} = \frac{\text{EBIT} \times (1 - \text{Effective Tax Rate})}{\text{Total Debt} + \text{Total Equity} - \text{Cash}}$$
 - **Unlevered Free Cash Flow (FCFF)**:
-  $$\text{FCFF}_t = \text{NOPAT}_t + \text{D\&A}_t - \text{CapEx}_t - \Delta\text{NWC}_t$$
+  $$\text{FCFF}_t = \text{NOPAT}_t + \text{D/A}_t - \text{CapEx}_t - \Delta\text{NWC}_t$$
 - **Weighted Average Cost of Capital (WACC)**:
   $$\text{WACC} = \frac{E}{E+D}(R_f + \beta \cdot \text{ERP}) + \frac{D}{E+D} R_d (1 - T)$$
 
@@ -84,7 +84,7 @@ flowchart TD
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/<your-username>/Automotive-Automated-Financial-Metrics-Valuation-Dashboard.git
+git clone https://github.com/data-gao/Automotive-Automated-Financial-Metrics-Valuation-Dashboard.git
 cd Automotive-Automated-Financial-Metrics-Valuation-Dashboard
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
